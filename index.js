@@ -95,25 +95,25 @@ const makeSound = (key) => {
 
     switch (key) {
         case "w":
-            playMusic("sounds/sounds_sound-1.mp3");
+            playMusic("sounds_sound-1.mp3");
             break;
         case "a":
-            playMusic("sounds/sounds_sound-2.mp3");
+            playMusic("sounds_sound-2.mp3");
             break;
         case "s":
-            playMusic("sounds/sounds_sound-3.mp3");
+            playMusic("sounds_sound-3.mp3");
             break;
         case "d":
-            playMusic("sounds/sounds_sound-4.mp3");
+            playMusic("sounds_sound-4.mp3");
             break;
         case "j":
-            playMusic("sounds/sounds_sound-5.mp3");
+            playMusic("sounds_sound-5.mp3");
             break;
         case "k":
-            playMusic("sounds/sounds_sound-6.mp3");
+            playMusic("sounds_sound-6.mp3");
             break;
         case "l":
-            playMusic("sounds/sounds_sound-7.mp3");
+            playMusic("sounds_sound-7.mp3");
             break;
         default:
             console.log("hey wrong button!!");
